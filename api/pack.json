@@ -2,7 +2,6 @@
   {
     "count": 22,
     "isAnimated": true,
-    "isDownloaded": false,
     "name": "Bear",
     "packId": "animated_0",
     "priority": 0
@@ -10,7 +9,6 @@
   {
     "count": 28,
     "isAnimated": true,
-    "isDownloaded": false,
     "name": "Birthday",
     "packId": "animated_1",
     "priority": 6
@@ -18,7 +16,6 @@
   {
     "count": 26,
     "isAnimated": true,
-    "isDownloaded": false,
     "name": "Bling",
     "packId": "animated_2",
     "priority": 7
@@ -26,7 +23,6 @@
   {
     "count": 17,
     "isAnimated": true,
-    "isDownloaded": false,
     "name": "Cat",
     "packId": "animated_3",
     "priority": 3
@@ -34,7 +30,6 @@
   {
     "count": 23,
     "isAnimated": true,
-    "isDownloaded": false,
     "name": "Chipmunk",
     "packId": "animated_4",
     "priority": 1
@@ -42,7 +37,6 @@
   {
     "count": 24,
     "isAnimated": true,
-    "isDownloaded": false,
     "name": "Flower",
     "packId": "animated_5",
     "priority": 8
@@ -50,7 +44,6 @@
   {
     "count": 23,
     "isAnimated": true,
-    "isDownloaded": false,
     "name": "Funny",
     "packId": "animated_6",
     "priority": 4
@@ -58,7 +51,6 @@
   {
     "count": 23,
     "isAnimated": true,
-    "isDownloaded": false,
     "name": "Love",
     "packId": "animated_7",
     "priority": 2
@@ -66,7 +58,6 @@
   {
     "count": 30,
     "isAnimated": true,
-    "isDownloaded": false,
     "name": "Merry Christmas",
     "packId": "animated_8",
     "priority": 9
@@ -74,7 +65,6 @@
   {
     "count": 26,
     "isAnimated": true,
-    "isDownloaded": false,
     "name": "Summer",
     "packId": "animated_9",
     "priority": 5
@@ -82,23 +72,20 @@
   {
     "count": 28,
     "isAnimated": false,
-    "isDownloaded": false,
     "name": "Autumn",
     "packId": "static_0",
-    "priority": 5
+    "priority": 2
   },
   {
     "count": 30,
     "isAnimated": false,
-    "isDownloaded": false,
     "name": "Christmas",
     "packId": "static_1",
-    "priority": 5
+    "priority": 8
   },
   {
     "count": 30,
     "isAnimated": false,
-    "isDownloaded": false,
     "name": "Cute Cat",
     "packId": "static_2",
     "priority": 5
@@ -106,57 +93,50 @@
   {
     "count": 29,
     "isAnimated": false,
-    "isDownloaded": false,
     "name": "Emoji",
     "packId": "static_3",
-    "priority": 5
+    "priority": 1
   },
   {
     "count": 30,
     "isAnimated": false,
-    "isDownloaded": false,
     "name": "Food",
     "packId": "static_4",
-    "priority": 5
+    "priority": 7
   },
   {
     "count": 24,
     "isAnimated": false,
-    "isDownloaded": false,
     "name": "Frog",
     "packId": "static_5",
-    "priority": 5
+    "priority": 6
   },
   {
     "count": 26,
     "isAnimated": false,
-    "isDownloaded": false,
     "name": "Halloween",
     "packId": "static_6",
-    "priority": 5
+    "priority": 3
   },
   {
     "count": 24,
     "isAnimated": false,
-    "isDownloaded": false,
     "name": "Kawaii Bear",
     "packId": "static_7",
-    "priority": 5
+    "priority": 3
   },
   {
     "count": 25,
     "isAnimated": false,
-    "isDownloaded": false,
     "name": "Marble Art",
     "packId": "static_8",
-    "priority": 5
+    "priority": 9
   },
   {
     "count": 27,
     "isAnimated": false,
-    "isDownloaded": false,
     "name": "Red",
     "packId": "static_9",
-    "priority": 5
+    "priority": 9
   }
 ]
