@@ -1,1 +1,1 @@
-# sticker_maker
+# Repository to hold data for Sticker Maker app
