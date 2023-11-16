@@ -1,13 +1,13 @@
 [
   {
-    "count": 3,
+    "count": 22,
     "isAnimated": true,
     "name": "Bear",
     "packId": "animated_0",
     "priority": 0
   },
   {
-    "count": 28,
+    "count": 26,
     "isAnimated": true,
     "name": "Birthday",
     "packId": "animated_1",
@@ -21,7 +21,7 @@
     "priority": 7
   },
   {
-    "count": 17,
+    "count": 21,
     "isAnimated": true,
     "name": "Cat",
     "packId": "animated_3",
@@ -35,14 +35,14 @@
     "priority": 1
   },
   {
-    "count": 24,
+    "count": 26,
     "isAnimated": true,
-    "name": "Flower",
+    "name": "Flowers",
     "packId": "animated_5",
     "priority": 8
   },
   {
-    "count": 23,
+    "count": 25,
     "isAnimated": true,
     "name": "Funny",
     "packId": "animated_6",
@@ -68,6 +68,13 @@
     "name": "Summer",
     "packId": "animated_9",
     "priority": 5
+  },
+  {
+    "count": 22,
+    "isAnimated": true,
+    "name": "Summer",
+    "packId": "animated_10",
+    "priority": 4
   },
   {
     "count": 28,
