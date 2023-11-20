@@ -14,7 +14,7 @@
     "priority": 6
   },
   {
-    "count": 26,
+    "count": 24,
     "isAnimated": true,
     "name": "Bling",
     "packId": "animated_2",
@@ -28,9 +28,9 @@
     "priority": 3
   },
   {
-    "count": 23,
+    "count": 22,
     "isAnimated": true,
-    "name": "Chipmunk",
+    "name": "Dance",
     "packId": "animated_4",
     "priority": 1
   },
@@ -49,32 +49,25 @@
     "priority": 4
   },
   {
-    "count": 23,
+    "count": 25,
     "isAnimated": true,
     "name": "Love",
     "packId": "animated_7",
     "priority": 2
   },
   {
-    "count": 30,
+    "count": 27,
     "isAnimated": true,
     "name": "Merry Christmas",
     "packId": "animated_8",
     "priority": 9
   },
   {
-    "count": 26,
+    "count": 25,
     "isAnimated": true,
     "name": "Summer",
     "packId": "animated_9",
     "priority": 5
-  },
-  {
-    "count": 22,
-    "isAnimated": true,
-    "name": "Summer",
-    "packId": "animated_10",
-    "priority": 4
   },
   {
     "count": 28,
