@@ -7,7 +7,7 @@
     "priority": 0
   },
   {
-    "count": 25,
+    "count": 24,
     "isAnimated": true,
     "name": "Birthday",
     "packId": "animated_1",
@@ -98,7 +98,7 @@
     "priority": 3
   },
   {
-    "count": 29,
+    "count": 23,
     "isAnimated": true,
     "name": "Emoji",
     "packId": "animated_14",
