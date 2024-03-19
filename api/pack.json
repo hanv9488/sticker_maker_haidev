@@ -2,13 +2,6 @@
   {
     "count": 22,
     "isAnimated": true,
-    "name": "Test new update",
-    "packId": "animated_100",
-    "priority": 0
-  },
-  {
-    "count": 22,
-    "isAnimated": true,
     "name": "Bear",
     "packId": "animated_0",
     "priority": 0
@@ -75,6 +68,76 @@
     "name": "Summer",
     "packId": "animated_9",
     "priority": 5
+  },
+  {
+    "count": 25,
+    "isAnimated": true,
+    "name": "Animal",
+    "packId": "animated_10",
+    "priority": 9
+  },
+  {
+    "count": 27,
+    "isAnimated": true,
+    "name": "Christmas",
+    "packId": "animated_11",
+    "priority": 5
+  },
+  {
+    "count": 17,
+    "isAnimated": true,
+    "name": "Chubby Duck",
+    "packId": "animated_12",
+    "priority": 0
+  },
+  {
+    "count": 16,
+    "isAnimated": true,
+    "name": "Cloud",
+    "packId": "animated_13",
+    "priority": 3
+  },
+  {
+    "count": 29,
+    "isAnimated": true,
+    "name": "Emoji",
+    "packId": "animated_14",
+    "priority": 7
+  },
+  {
+    "count": 24,
+    "isAnimated": true,
+    "name": "Flork",
+    "packId": "animated_15",
+    "priority": 5
+  },
+  {
+    "count": 21,
+    "isAnimated": true,
+    "name": "Happy New year",
+    "packId": "animated_16",
+    "priority": 6
+  },
+  {
+    "count": 21,
+    "isAnimated": true,
+    "name": "Leonardo Dicaprio",
+    "packId": "animated_17",
+    "priority": 5
+  },
+  {
+    "count": 21,
+    "isAnimated": true,
+    "name": "Meme",
+    "packId": "animated_18",
+    "priority": 2
+  },
+  {
+    "count": 23,
+    "isAnimated": true,
+    "name": "New Year",
+    "packId": "animated_19",
+    "priority": 9
   },
   {
     "count": 28,
