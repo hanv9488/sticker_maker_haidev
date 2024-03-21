@@ -102,7 +102,7 @@
     "isAnimated": true,
     "name": "Emoji",
     "packId": "animated_14",
-    "priority": 7
+    "priority": 0
   },
   {
     "count": 24,
@@ -159,13 +159,6 @@
     "name": "Cute Cat",
     "packId": "static_2",
     "priority": 5
-  },
-  {
-    "count": 29,
-    "isAnimated": false,
-    "name": "Emoji",
-    "packId": "static_3",
-    "priority": 1
   },
   {
     "count": 30,
