@@ -4,7 +4,7 @@
     "isAnimated": true,
     "name": "Bear",
     "packId": "animated_0",
-    "priority": 0
+    "priority": 1
   },
   {
     "count": 24,
@@ -88,7 +88,7 @@
     "isAnimated": true,
     "name": "Chubby Duck",
     "packId": "animated_12",
-    "priority": 0
+    "priority": 1
   },
   {
     "count": 14,
