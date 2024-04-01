@@ -17,7 +17,7 @@
   },
   "sticker_category": {
     "model": "sticker_category",
-    "publish_version": "1.0.0"
+    "publish_version": "1.0.1"
   },
   "preset_text": {
     "model": "preset_text",
