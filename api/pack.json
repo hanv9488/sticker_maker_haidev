@@ -140,6 +140,139 @@
     "priority": 9
   },
   {
+    "count": 30,
+    "isAnimated": true,
+    "name": "Birthday 2",
+    "packId": "animated_20",
+    "priority": 0
+  },
+  {
+    "count": 16,
+    "isAnimated": true,
+    "name": "Black Bone Chicken",
+    "packId": "animated_21",
+    "priority": 0
+  },
+  {
+    "count": 27,
+    "isAnimated": true,
+    "name": "Dog",
+    "packId": "animated_22",
+    "priority": 0
+  },
+  {
+    "count": 23,
+    "isAnimated": true,
+    "name": "Funny Husky",
+    "packId": "animated_23",
+    "priority": 0
+  },
+  {
+    "count": 30,
+    "isAnimated": true,
+    "name": "Halloween",
+    "packId": "animated_24",
+    "priority": 0
+  },
+  {
+    "count": 28,
+    "isAnimated": true,
+    "name": "Momo",
+    "packId": "animated_25",
+    "priority": 0
+  },
+  {
+    "count": 21,
+    "isAnimated": true,
+    "name": "No",
+    "packId": "animated_26",
+    "priority": 0
+  },
+  {
+    "count": 29,
+    "isAnimated": true,
+    "name": "Piggy",
+    "packId": "animated_27",
+    "priority": 0
+  },
+  {
+    "count": 30,
+    "isAnimated": true,
+    "name": "Pony",
+    "packId": "animated_28",
+    "priority": 0
+  },
+  {
+    "count": 30,
+    "isAnimated": true,
+    "name": "Sad Bear",
+    "packId": "animated_29",
+    "priority": 0
+  },
+  {
+    "count": 30,
+    "isAnimated": true,
+    "name": "Valentine",
+    "packId": "animated_30",
+    "priority": 0
+  },
+  {
+    "count": 16,
+    "isAnimated": true,
+    "name": "White Bear",
+    "packId": "animated_31",
+    "priority": 0
+  },
+  {
+    "count": 15,
+    "isAnimated": true,
+    "name": "Will Smith",
+    "packId": "animated_32",
+    "priority": 0
+  },
+  {
+    "count": 28,
+    "isAnimated": true,
+    "name": "Wow",
+    "packId": "animated_33",
+    "priority": 0
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
     "count": 28,
     "isAnimated": false,
     "name": "Autumn",
@@ -201,5 +334,96 @@
     "name": "Red",
     "packId": "static_9",
     "priority": 9
+  },
+  {
+    "count": 24,
+    "isAnimated": false,
+    "name": "Birthday",
+    "packId": "static_10",
+    "priority": 0
+  },
+  {
+    "count": 30,
+    "isAnimated": false,
+    "name": "Emoji 2",
+    "packId": "static_11",
+    "priority": 0
+  },
+  {
+    "count": 30,
+    "isAnimated": false,
+    "name": "Emoji 3",
+    "packId": "static_12",
+    "priority": 0
+  },
+  {
+    "count": 28,
+    "isAnimated": false,
+    "name": "Emoji Heart",
+    "packId": "static_13",
+    "priority": 0
+  },
+  {
+    "count": 30,
+    "isAnimated": false,
+    "name": "Kimetsu",
+    "packId": "static_14",
+    "priority": 0
+  },
+  {
+    "count": 27,
+    "isAnimated": false,
+    "name": "Lee Rohee",
+    "packId": "static_15",
+    "priority": 0
+  },
+  {
+    "count": 27,
+    "isAnimated": false,
+    "name": "Meme",
+    "packId": "static_16",
+    "priority": 0
+  },
+  {
+    "count": 23,
+    "isAnimated": false,
+    "name": "Meme 2",
+    "packId": "static_17",
+    "priority": 0
+  },
+  {
+    "count": 21,
+    "isAnimated": false,
+    "name": "Meme Frog",
+    "packId": "static_18",
+    "priority": 0
+  },
+  {
+    "count": 30,
+    "isAnimated": false,
+    "name": "Monkey Fun",
+    "packId": "static_19",
+    "priority": 0
+  },
+  {
+    "count": 26,
+    "isAnimated": false,
+    "name": "Pinky",
+    "packId": "static_20",
+    "priority": 0
+  },
+  {
+    "count": 28,
+    "isAnimated": false,
+    "name": "Puppy Funny",
+    "packId": "static_21",
+    "priority": 0
+  },
+  {
+    "count": 25,
+    "isAnimated": false,
+    "name": "Rose Romance",
+    "packId": "static_22",
+    "priority": 0
   }
 ]
