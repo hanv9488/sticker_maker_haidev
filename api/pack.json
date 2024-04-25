@@ -135,7 +135,7 @@
   {
     "count": 30,
     "isAnimated": false,
-    "name": "Cutecat",
+    "name": "Cute Cat",
     "packId": "cat_static_14",
     "priority": 2
   },
@@ -226,12 +226,12 @@
   {
     "count": 18,
     "isAnimated": false,
-    "name": "Cutecute",
+    "name": "Cute",
     "packId": "cute_static_3",
     "priority": 1
   },
   {
-    "count": 0,
+    "count": 27,
     "isAnimated": false,
     "name": "Cute Dog",
     "packId": "cute_static_4",
@@ -492,14 +492,14 @@
   {
     "count": 26,
     "isAnimated": false,
-    "name": "Bt 2 1 Baby My Little Buddy",
+    "name": "Bt21 Baby My Little Buddy",
     "packId": "foryou_static_6",
     "priority": 9
   },
   {
     "count": 26,
     "isAnimated": false,
-    "name": "Bt 2 1 Full Of Energy",
+    "name": "Bt21 Full Of Energy",
     "packId": "foryou_static_7",
     "priority": 3
   },
@@ -842,7 +842,7 @@
   {
     "count": 30,
     "isAnimated": false,
-    "name": "Heartheart",
+    "name": "Heart 4",
     "packId": "love_static_17",
     "priority": 4
   },
@@ -1003,7 +1003,7 @@
   {
     "count": 21,
     "isAnimated": false,
-    "name": "MemeFrog",
+    "name": "Meme Frog",
     "packId": "meme_static_9",
     "priority": 3
   },
@@ -1045,7 +1045,7 @@
   {
     "count": 16,
     "isAnimated": false,
-    "name": "9 J 0 U 1 O",
+    "name": "9J0U1O",
     "packId": "trending_static_0",
     "priority": 3
   },
@@ -1185,7 +1185,7 @@
   {
     "count": 20,
     "isAnimated": false,
-    "name": "Somaclife",
+    "name": "Somac Life",
     "packId": "trending_static_20",
     "priority": 1
   },
@@ -1262,7 +1262,7 @@
   {
     "count": 30,
     "isAnimated": false,
-    "name": "Y 2k Element",
+    "name": "Y2k Element",
     "packId": "trending_static_31",
     "priority": 7
   },
@@ -1353,7 +1353,7 @@
   {
     "count": 16,
     "isAnimated": false,
-    "name": "Heart Heart 2",
+    "name": "Heart 5",
     "packId": "valentine_static_12",
     "priority": 8
   },
@@ -1990,7 +1990,7 @@
   {
     "count": 30,
     "isAnimated": true,
-    "name": "Mimi& Neko",
+    "name": "Mimi & Neko",
     "packId": "cute_animated_27",
     "priority": 5
   },
@@ -2172,21 +2172,21 @@
   {
     "count": 20,
     "isAnimated": true,
-    "name": "Bt 2 1 Absolute Charm",
+    "name": "Bt21 Absolute Charm",
     "packId": "for you_animated_1",
     "priority": 3
   },
   {
     "count": 20,
     "isAnimated": true,
-    "name": "Bt 2 1 Best Friends Forever",
+    "name": "Bt21 Best Friends Forever",
     "packId": "for you_animated_2",
     "priority": 8
   },
   {
     "count": 20,
     "isAnimated": true,
-    "name": "Bt 2 1 Love& Peace",
+    "name": "Bt21 Love & Peace",
     "packId": "for you_animated_3",
     "priority": 8
   },
