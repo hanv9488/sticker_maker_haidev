@@ -1,11 +1,11 @@
 {
   "whatsapp_pack": {
     "model": "whatsapp_pack",
-    "publish_version": "2.0.0"
+    "publish_version": "2.0.1"
   },
   "whatsapp_sticker": {
     "model": "whatsapp_sticker",
-    "publish_version": "2.0.0"
+    "publish_version": "2.0.1"
   },
   "font": {
     "model": "font",
